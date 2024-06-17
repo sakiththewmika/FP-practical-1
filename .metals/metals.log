@@ -1,0 +1,12 @@
+2024.06.17 23:16:43 INFO  Started: Metals version 1.3.1 in folders 'D:\FP practicals\FP-practical-1' for client Visual Studio Code 1.90.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@697b63dd]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@66ab281e]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@697b63dd]
+2024.06.17 23:16:44 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jun 17, 2024 11:17:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.06.17 23:23:29 INFO  Shutting down server
+2024.06.17 23:23:29 INFO  shutting down Metals
+2024.06.17 23:23:29 INFO  Exiting server
